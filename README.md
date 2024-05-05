@@ -1,0 +1,1 @@
+# rust emacs plugin
